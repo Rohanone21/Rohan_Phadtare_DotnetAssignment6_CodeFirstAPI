@@ -1,0 +1,6 @@
+@Rohan_Phadtare_DotnetAssignment6_CodeFirstAPI_HostAddress = http://localhost:5194
+
+GET {{Rohan_Phadtare_DotnetAssignment6_CodeFirstAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
